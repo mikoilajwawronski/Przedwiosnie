@@ -9,7 +9,7 @@
 /**
  * Description of suffixs
  *
- * @author mwawr_000
+ * @author Mikołaj Wawroński
  */
 class suffixs {
     //put your code here
