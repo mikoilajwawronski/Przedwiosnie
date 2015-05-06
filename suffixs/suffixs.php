@@ -11,6 +11,8 @@
  *
  * @author Mikołaj Wawroński
  */
-class suffixs {
+class Suffixs {
+   
+    
     //put your code here
 }
